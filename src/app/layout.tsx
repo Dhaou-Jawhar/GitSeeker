@@ -6,9 +6,9 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Github Searcher",
+  title: "Github Seeker",
   description:
-    "This Website provides a beautiful layout to search github profiles in the format of cards",
+    "This Website provides a beautiful layout to search github profiles in the format of cards ♥",
 };
 
 export default function RootLayout({
