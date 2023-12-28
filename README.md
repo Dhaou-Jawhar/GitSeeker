@@ -6,13 +6,25 @@ GitHub Searcher is a web application that allows users to search for a GitHub us
 ## Features
 
 - Search for a GitHub user and display a user card with essential information.
- 
+
+ <div align="center">
+  <a href="https://git-seeker.vercel.app">
+    <img src="https://github.com/Dhaou-Jawhar/GitSeeker/blob/master/public/Readme/Search.png" alt="Logo" />
+  </a>
 
 - View a list of repositories belonging to the searched user.
-  
+
+  <div align="center">
+  <a href="https://git-seeker.vercel.app">
+    <img src="https://github.com/Dhaou-Jawhar/GitSeeker/blob/master/public/Readme/Repo.png" alt="Logo" />
+  </a>
 
 - Download the rendered user card as a PNG image.
 
+<div align="center">
+  <a href="https://git-seeker.vercel.app">
+    <img src="https://github.com/Dhaou-Jawhar/GitSeeker/blob/master/public/Readme/screenshot.png" alt="Logo" />
+  </a>
 
 ## Technologies Used
 
