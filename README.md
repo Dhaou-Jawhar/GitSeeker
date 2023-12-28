@@ -1,7 +1,7 @@
 # GitHub Searcher
 Demo Link: https://git-seeker.vercel.app
 
-<div style="text-align: center;">
+<div align="center">
 <a href="https://git-seeker.vercel.app" >
     <img src="https://github.com/Dhaou-Jawhar/GitSeeker/blob/master/public/Readme/demo.gif" alt="Logo" />
   </a>
